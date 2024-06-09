@@ -1,0 +1,8 @@
+# Ignore node modules
+/node_modules
+
+# Ignore PDF files
+/pdfs
+
+# Ignore generated catalogue info file
+catalogueInfo.json
